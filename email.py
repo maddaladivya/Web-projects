@@ -1,3 +1,5 @@
+#added comment
+#comment to check
 import smtplib
 
 content = 'Here is my first mail using python :)'
@@ -13,3 +15,5 @@ mail.login('sarvanimini@gmail.com','mini@241098')
 mail.sendmail('sarvanimini@gmail.com','k.mounikasmitha999@gmail.com',content)
 
 mail.close()
+
+
